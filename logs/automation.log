@@ -1,0 +1,363 @@
+2024-07-05 12:26:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 12:26:26 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 12:26:26 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 12:27:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 12:27:23 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 12:27:23 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 12:27:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 12:27:57 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 12:27:57 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 12:35:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 12:35:41 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 12:35:41 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 12:36:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 12:36:46 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 12:36:46 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 12:56:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 12:56:28 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 12:56:28 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:41:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 13:41:02 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:41:02 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:41:09 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:41:09 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:44:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 13:44:07 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:44:07 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:44:14 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:44:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:44:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 13:44:57 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:44:57 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:45:05 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:45:05 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:45:12 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:45:12 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:46:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 13:46:31 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:46:31 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:46:36 INFO  Test_Case_1_Register_User:33 - *****Test_Case_1_Register_User >> Started*******
+2024-07-05 13:46:45 INFO  Test_Case_1_Register_User:46 - *****Test_Case_1_Register_User >> Finished*******
+2024-07-05 13:46:45 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:46:45 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:46:52 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:46:52 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:46:57 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:46:57 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:48:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 13:48:46 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:48:46 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:48:50 INFO  Test_Case_1_Register_User:33 - *****Test_Case_1_Register_User >> Started*******
+2024-07-05 13:48:59 INFO  Test_Case_1_Register_User:46 - *****Test_Case_1_Register_User >> Finished*******
+2024-07-05 13:48:59 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:48:59 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:49:06 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:49:06 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:49:13 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:49:13 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:49:20 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:49:20 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\AppData\Local\Temp\testng-eclipse--21954997\testng-customsuite.xml
+
+2024-07-05 13:50:27 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-07-05 13:50:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@273c947f: 48 ms
+2024-07-05 13:50:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@29b732a2: 11 ms
+2024-07-05 13:50:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@22175d4f: 7 ms
+2024-07-05 13:50:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4d666b41: 6 ms
+2024-07-05 13:50:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6c2f1700: 4 ms
+2024-07-05 13:50:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@350b3a17: 0 ms
+2024-07-05 13:51:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 13:51:32 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:51:32 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:51:36 INFO  Test_Case_1_Register_User:33 - *****Test_Case_1_Register_User >> Started*******
+2024-07-05 13:51:45 INFO  Test_Case_1_Register_User:46 - *****Test_Case_1_Register_User >> Finished*******
+2024-07-05 13:51:45 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:51:45 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:51:51 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:51:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:52:00 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:52:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:52:08 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:52:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 13:52:16 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 13:52:16 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 14:51:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 14:51:51 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 14:51:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 14:53:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 14:53:18 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 14:53:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 14:53:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 14:53:36 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 14:53:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 14:53:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 14:53:50 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 14:53:50 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:00:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:00:25 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:00:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:00:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:00:45 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:00:45 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:00:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:00:55 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:00:55 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:06:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:06:56 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:06:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:39:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:39:24 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:39:24 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:40:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:40:44 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:40:44 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\AppData\Local\Temp\testng-eclipse-735146371\testng-customsuite.xml
+
+2024-07-05 18:43:33 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-07-05 18:43:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@50cf5a23: 60 ms
+2024-07-05 18:43:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4e7095ac: 10 ms
+2024-07-05 18:43:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2472c7d8: 7 ms
+2024-07-05 18:43:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@66f66866: 6 ms
+2024-07-05 18:43:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e1162e7: 5 ms
+2024-07-05 18:43:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@79c3f01f: 0 ms
+2024-07-05 18:43:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:43:43 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:43:43 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:43:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:43:57 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:43:57 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:44:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:44:17 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:44:17 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:48:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:48:46 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:48:46 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:49:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:49:03 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:49:03 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\AppData\Local\Temp\testng-eclipse--231993059\testng-customsuite.xml
+
+2024-07-05 18:49:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-07-05 18:49:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@50cf5a23: 55 ms
+2024-07-05 18:49:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4e7095ac: 9 ms
+2024-07-05 18:49:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2472c7d8: 7 ms
+2024-07-05 18:49:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@66f66866: 4 ms
+2024-07-05 18:49:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e1162e7: 4 ms
+2024-07-05 18:49:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@79c3f01f: 0 ms
+2024-07-05 18:50:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 18:50:09 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 18:50:09 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:01:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:01:02 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:01:02 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:25:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:25:48 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:25:48 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:29:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:29:04 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:29:04 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:29:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:29:14 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:29:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:29:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:29:31 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:29:31 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:34:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:34:42 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:34:42 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:35:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:35:01 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:35:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:35:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:35:31 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:35:31 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:35:36 INFO  Test_Case_1_Register_User:33 - *****Test_Case_1_Register_User >> Started*******
+2024-07-05 19:35:44 INFO  Test_Case_1_Register_User:46 - *****Test_Case_1_Register_User >> Finished*******
+2024-07-05 19:35:44 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:35:44 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:35:51 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:35:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:37:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rawat\eclipse-workspace\Open-Cart-Automation\pratice.xml
+
+2024-07-05 19:37:07 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:37:07 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:37:11 INFO  Test_Case_1_Register_User:33 - *****Test_Case_1_Register_User >> Started*******
+2024-07-05 19:37:21 INFO  Test_Case_1_Register_User:46 - *****Test_Case_1_Register_User >> Finished*******
+2024-07-05 19:37:21 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:37:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:37:28 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:37:28 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:37:36 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:37:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:37:44 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:37:44 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:37:51 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:37:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
+2024-07-05 19:37:55 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+2024-07-05 19:37:55 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Rawat\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe

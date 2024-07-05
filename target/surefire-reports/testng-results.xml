@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-03T00:15:40 IST" name="Suite" finished-at="2024-07-03T00:15:49 IST" duration-ms="9008">
+    <groups>
+    </groups>
+    <test started-at="2024-07-03T00:15:40 IST" name="Test" finished-at="2024-07-03T00:15:49 IST" duration-ms="9008">
+      <class name="com.opencart.qa.testcases.Test_Case_5_Register_User_with_existing_email">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.qa.testcases.Test_Case_5_Register_User_with_existing_email@3f07b12c]" started-at="2024-07-03T00:15:40 IST" name="setup" finished-at="2024-07-03T00:15:44 IST" duration-ms="3979" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initializeobject()[pri:0, instance:com.opencart.qa.testcases.Test_Case_5_Register_User_with_existing_email@3f07b12c]" started-at="2024-07-03T00:15:44 IST" name="initializeobject" finished-at="2024-07-03T00:15:44 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeobject -->
+        <test-method signature="registerUserwithexistingemailTest()[pri:0, instance:com.opencart.qa.testcases.Test_Case_5_Register_User_with_existing_email@3f07b12c]" started-at="2024-07-03T00:15:44 IST" name="registerUserwithexistingemailTest" finished-at="2024-07-03T00:15:49 IST" duration-ms="4140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUserwithexistingemailTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.qa.testcases.Test_Case_5_Register_User_with_existing_email@3f07b12c]" started-at="2024-07-03T00:15:49 IST" name="tearDown" finished-at="2024-07-03T00:15:49 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opencart.qa.testcases.Test_Case_5_Register_User_with_existing_email -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
